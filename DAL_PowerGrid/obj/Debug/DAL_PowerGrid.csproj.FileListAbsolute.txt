@@ -1,0 +1,9 @@
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\bin\Debug\DAL_PowerGrid.dll
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\bin\Debug\DAL_PowerGrid.pdb
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\bin\Debug\REF_PowerGrid.dll
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\bin\Debug\REF_PowerGrid.pdb
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\obj\Debug\DAL_PowerGrid.csproj.AssemblyReference.cache
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\obj\Debug\DAL_PowerGrid.csproj.CoreCompileInputs.cache
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\obj\Debug\DAL_PowerGrid.csproj.CopyComplete
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\obj\Debug\DAL_PowerGrid.dll
+B:\OneDrive - NSBM\Techwire\PowerGrid\DAL_PowerGrid\obj\Debug\DAL_PowerGrid.pdb

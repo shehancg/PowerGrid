@@ -1,0 +1,6 @@
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\bin\Debug\REF_PowerGrid.dll
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\bin\Debug\REF_PowerGrid.pdb
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\obj\Debug\REF_PowerGrid.csproj.AssemblyReference.cache
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\obj\Debug\REF_PowerGrid.csproj.CoreCompileInputs.cache
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\obj\Debug\REF_PowerGrid.dll
+B:\OneDrive - NSBM\Techwire\PowerGrid\REF_PowerGrid\obj\Debug\REF_PowerGrid.pdb
